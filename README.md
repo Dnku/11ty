@@ -1,2 +1,3 @@
-# 11ty
-11ty Install - Starter Projects 
+# 11ty Starter Projects
+
+11ty Install - Starter Projects
